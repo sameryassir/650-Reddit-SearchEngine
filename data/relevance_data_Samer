@@ -1,0 +1,201 @@
+,query,docid,rel
+0,What is climate change?,6336692,3
+1,What is climate change?,6342800,3
+2,What is climate change?,6736086,1
+3,What is climate change?,6841548,1
+4,What is climate change?,7682157,1
+5,What is climate change?,8731468,1
+6,What is climate change?,8783202,1
+7,What is climate change?,8873734,1
+8,What is climate change?,9326680,3
+9,What is climate change?,9524331,3
+10,What is something sad?,1522982,1
+11,What is something sad?,1819720,3
+12,What is something sad?,3179945,1
+13,What is something sad?,4424263,1
+14,What is something sad?,5433667,2
+15,What is something sad?,6866654,1
+16,What is something sad?,7660628,1
+17,What is something sad?,8941153,1
+18,What is something sad?,9604929,1
+19,What is something sad?,9945356,2
+20,What is the weather today?,1009239,1
+21,What is the weather today?,2483120,1
+22,What is the weather today?,5977304,1
+23,What is the weather today?,6482369,1
+24,What is the weather today?,7063610,1
+25,What is the weather today?,7614445,1
+26,What is the weather today?,8079495,1
+27,What is the weather today?,8214087,1
+28,What is the weather today?,9046505,1
+29,What is the weather today?,9087011,1
+30,What is the weather today?,1009239,1
+31,What is the weather today?,2483120,1
+32,What is the weather today?,5977304,1
+33,What is the weather today?,6301388,2
+34,What is the weather today?,6482369,1
+35,What is the weather today?,6945212,1
+36,What is the weather today?,7032799,1
+37,What is the weather today?,7063610,1
+38,What is the weather today?,7174159,1
+39,What is the weather today?,8406743,1
+40,What is something funny?,981451,2
+41,What is something funny?,1039389,2
+42,What is something funny?,1359660,3
+43,What is something funny?,4950140,2
+44,What is something funny?,5859150,2
+45,What is something funny?,6703783,2
+46,What is something funny?,7912994,2
+47,What is something funny?,9449620,2
+48,What is something funny?,9484777,2
+49,What is something funny?,9550743,1
+50,What is happiness?,4350624,1
+51,What is happiness?,4628023,2
+52,What is happiness?,5472671,2
+53,What is happiness?,6205268,2
+54,What is happiness?,7622222,2
+55,What is happiness?,8327303,2
+56,What is happiness?,8875241,2
+57,What is happiness?,9384651,1
+58,What is happiness?,9632300,1
+59,What is happiness?,9633051,1
+60,What is machine learning?,2900025,1
+61,What is machine learning?,3236432,1
+62,What is machine learning?,3756670,1
+63,What is machine learning?,5432250,1
+64,What is machine learning?,6233580,1
+65,What is machine learning?,6278492,1
+66,What is machine learning?,7719014,1
+67,What is machine learning?,7821036,1
+68,What is machine learning?,8004563,1
+69,What is machine learning?,9335579,1
+70,What is artificial intelligence?,7762254,1
+71,What is artificial intelligence?,7930153,1
+72,What is artificial intelligence?,8031639,1
+73,What is artificial intelligence?,8081380,1
+74,What is artificial intelligence?,8391958,1
+75,What is artificial intelligence?,8524710,1
+76,What is artificial intelligence?,9023200,1
+77,What is artificial intelligence?,9764347,1
+78,What is artificial intelligence?,9955087,3
+79,What is artificial intelligence?,9972285,3
+80,What is a successful marriage?,5376620,1
+81,What is a successful marriage?,5535559,1
+82,What is a successful marriage?,6174353,1
+83,What is a successful marriage?,6940654,1
+84,What is a successful marriage?,7137393,1
+85,What is a successful marriage?,7455087,1
+86,What is a successful marriage?,8829879,1
+87,What is a successful marriage?,8980501,1
+88,What is a successful marriage?,9029919,1
+89,What is a successful marriage?,9993916,1
+90,What is data privacy?,4812135,1
+91,What is data privacy?,6483042,1
+92,What is data privacy?,6607285,1
+93,What is data privacy?,6721802,1
+94,What is data privacy?,6951686,1
+95,What is data privacy?,7098201,1
+96,What is data privacy?,7179621,1
+97,What is data privacy?,7381326,1
+98,What is data privacy?,8058153,1
+99,What is data privacy?,9477744,1
+100,What is information retrieval?,2720162,1
+101,What is information retrieval?,3209891,1
+102,What is information retrieval?,7205254,1
+103,What is information retrieval?,7833382,1
+104,What is information retrieval?,7917919,1
+105,What is information retrieval?,7948763,1
+106,What is information retrieval?,8387934,1
+107,What is information retrieval?,8497842,1
+108,What is information retrieval?,9204411,1
+109,What is information retrieval?,9416495,1
+110,What is deep learning?,2346602,1
+111,What is deep learning?,2496475,1
+112,What is deep learning?,3589605,1
+113,What is deep learning?,4147388,1
+114,What is deep learning?,5141727,1
+115,What is deep learning?,6039105,1
+116,What is deep learning?,8150444,1
+117,What is deep learning?,8388828,1
+118,What is deep learning?,8479646,1
+119,What is deep learning?,9947062,1
+120,What is deep learning?,2900381,1
+121,Best video games?,3775356,1
+122,Best video games?,4305359,1
+123,Best video games?,4385732,1
+124,Best video games?,5379771,1
+125,Best video games?,5705016,1
+126,Best video games?,7551840,1
+127,Best video games?,9272248,1
+128,Best video games?,9702567,1
+129,Best video games?,9889735,1
+130,Best video games?,3523396,1
+131,How does electric current work?,5074245,1
+132,How does electric current work?,5990380,1
+133,How does electric current work?,7867274,1
+134,How does electric current work?,7892809,1
+135,How does electric current work?,8164006,1
+136,How does electric current work?,8439223,1
+137,How does electric current work?,8569046,1
+138,How does electric current work?,9458248,1
+139,How does electric current work?,9723683,1
+140,What is the significance of the stock market?,4949854,2
+141,What is the significance of the stock market?,5481698,1
+142,What is the significance of the stock market?,5618156,2
+143,What is the significance of the stock market?,6044616,2
+144,What is the significance of the stock market?,6745047,1
+145,What is the significance of the stock market?,9152253,1
+146,What is the significance of the stock market?,9358520,1
+147,What is the significance of the stock market?,9582174,1
+148,What is the significance of the stock market?,9657044,1
+149,What is the significance of the stock market?,9765837,1
+150,What is the importance of sleep?,1210583,1
+151,What is the importance of sleep?,1467727,1
+152,What is the importance of sleep?,2064091,1
+153,What is the importance of sleep?,3763651,1
+154,What is the importance of sleep?,3800997,1
+155,What is the importance of sleep?,4939756,1
+156,What is the importance of sleep?,6102012,1
+157,What is the importance of sleep?,6595663,1
+158,What is the importance of sleep?,6929157,1
+159,What is the importance of sleep?,6946939,1
+160,What are the symptoms of depression?,2544622,1
+161,What are the symptoms of depression?,3221054,1
+162,What are the symptoms of depression?,3650020,1
+163,What are the symptoms of depression?,3886025,1
+164,What are the symptoms of depression?,4727180,1
+165,What are the symptoms of depression?,6625492,1
+166,What are the symptoms of depression?,8349964,1
+167,What are the symptoms of depression?,8961733,1
+168,What are the symptoms of depression?,9136397,1
+169,What are the symptoms of depression?,9738587,1
+170,How do vaccines work?,893957,1
+171,How do vaccines work?,1059787,1
+172,How do vaccines work?,1567178,1
+173,How do vaccines work?,1801852,1
+174,How do vaccines work?,2720963,1
+175,How do vaccines work?,3784563,1
+176,How do vaccines work?,4693920,1
+177,How do vaccines work?,5201134,1
+178,How do vaccines work?,5857862,1
+179,How do vaccines work?,6396192,1
+180,What are the effects of pollution on human health?,3820152,1
+181,What are the effects of pollution on human health?,5501096,1
+182,What are the effects of pollution on human health?,6397825,1
+183,What are the effects of pollution on human health?,6903301,1
+184,What are the effects of pollution on human health?,7090529,1
+185,What are the effects of pollution on human health?,8580753,1
+186,What are the effects of pollution on human health?,8590466,1
+187,What are the effects of pollution on human health?,9045995,1
+188,What are the effects of pollution on human health?,9206007,1
+189,What are the effects of pollution on human health?,9421423,1
+190,What are the health benefits of meditation?,2455375,1
+191,What are the health benefits of meditation?,5241542,1
+192,What are the health benefits of meditation?,5778256,1
+193,What are the health benefits of meditation?,6127298,1
+194,What are the health benefits of meditation?,6289555,1
+195,What are the health benefits of meditation?,7525908,1
+196,What are the health benefits of meditation?,8498325,1
+197,What are the health benefits of meditation?,8498949,1
+198,What are the health benefits of meditation?,8590466,1
+199,What are the health benefits of meditation?,9421423,1

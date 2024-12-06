@@ -1,0 +1,201 @@
+,query,docid,rel
+0,what is love?,361894,1
+1,what is love?,819709,1
+2,what is love?,849165,2
+3,what is love?,1760006,2
+4,what is love?,1853253,2
+5,what is love?,2837044,2
+6,what is love?,3102209,2
+7,what is love?,4023322,2
+8,what is love?,4581059,4
+9,what is love?,7844850,2
+10,What color?,5930687,4
+11,What color?,6000826,3
+12,What color?,6538981,1
+13,What color?,7394954,1
+14,What color?,8406743,3
+15,What color?,9315906,3
+16,What color?,9317951,1
+17,What color?,9317999,2
+18,What color?,9320005,3
+19,What color?,9324149,1
+20,What is a tree?,2949731,4
+21,What is a tree?,3025647,3
+22,What is a tree?,4013881,1
+23,What is a tree?,4848508,1
+24,What is a tree?,5107216,1
+25,What is a tree?,5984904,1
+26,What is a tree?,6939875,4
+27,What is a tree?,7839732,1
+28,What is a tree?,8610989,1
+29,What is a tree?,9076665,2
+30,What is an animal?,3032331,1
+31,What is an animal?,3093604,2
+32,What is an animal?,3477022,4
+33,What is an animal?,4279380,1
+34,What is an animal?,4572755,1
+35,What is an animal?,6213623,3
+36,What is an animal?,6391214,2
+37,What is an animal?,7353175,1
+38,What is an animal?,7455724,3
+39,What is an animal?,9673411,1
+40,Where is water?,1558817,3
+41,Where is water?,1875751,3
+42,Where is water?,3003854,3
+43,Where is water?,3487981,2
+44,Where is water?,3927428,3
+45,Where is water?,4510922,3
+46,Where is water?,4878567,3
+47,Where is water?,5027652,3
+48,Where is water?,5432592,3
+49,Where is water?,8040060,3
+50,Why is it hot?,1313334,2
+51,Why is it hot?,1861884,2
+52,Why is it hot?,1868933,3
+53,Why is it hot?,1988902,1
+54,Why is it hot?,2472451,1
+55,Why is it hot?,3314710,1
+56,Why is it hot?,3855593,1
+57,Why is it hot?,3855689,1
+58,Why is it hot?,3977427,3
+59,Why is it hot?,9906018,2
+60,What makes a good leader?,2743518,1
+61,What makes a good leader?,5023700,1
+62,What makes a good leader?,5546569,1
+63,What makes a good leader?,8437009,1
+64,What makes a good leader?,8932855,1
+65,What makes a good leader?,9062292,1
+66,What makes a good leader?,9433529,3
+67,What makes a good leader?,9467022,2
+68,What makes a good leader?,9510950,3
+69,What makes a good leader?,9540701,1
+70,Why is kindness important?,1451515,2
+71,Why is kindness important?,2079064,1
+72,Why is kindness important?,5747368,2
+73,Why is kindness important?,6570680,1
+74,Why is kindness important?,6635871,1
+75,Why is kindness important?,6740763,4
+76,Why is kindness important?,6793012,1
+77,Why is kindness important?,7242033,1
+78,Why is kindness important?,7833382,1
+79,Why is kindness important?,8935727,1
+80,What makes art meaningful?,2531577,5
+81,What makes art meaningful?,2957354,3
+82,What makes art meaningful?,3015486,1
+83,What makes art meaningful?,3291622,1
+84,What makes art meaningful?,3446168,1
+85,What makes art meaningful?,3639096,2
+86,What makes art meaningful?,5481816,4
+87,What makes art meaningful?,7478248,1
+88,What makes art meaningful?,7891138,2
+89,What makes art meaningful?,8002877,1
+90,What makes something unique?,6232093,4
+91,What makes something unique?,6992251,5
+92,What makes something unique?,7003861,2
+93,What makes something unique?,7070711,1
+94,What makes something unique?,7879342,1
+95,What makes something unique?,8461041,1
+96,What makes something unique?,9234489,1
+97,What makes something unique?,9477781,1
+98,What makes something unique?,9675017,1
+99,What makes something unique?,9806037,3
+100,How do we define success?,6827774,2
+101,How do we define success?,6938437,4
+102,How do we define success?,7464300,2
+103,How do we define success?,7818220,5
+104,How do we define success?,8081826,2
+105,How do we define success?,8136994,1
+106,How do we define success?,8472324,1
+107,How do we define success?,8472327,2
+108,How do we define success?,8636537,2
+109,How do we define success?,9880241,1
+110,How does language influence thought?,2357140,3
+111,How does language influence thought?,3004897,1
+112,How does language influence thought?,4442097,1
+113,How does language influence thought?,4684814,2
+114,How does language influence thought?,5544985,3
+115,How does language influence thought?,6094597,3
+116,How does language influence thought?,6121015,1
+117,How does language influence thought?,7015190,1
+118,How does language influence thought?,7158494,1
+119,How does language influence thought?,7929382,2
+120,Can humans live without technology?,2006860,1
+121,Can humans live without technology?,3032116,1
+122,Can humans live without technology?,3339999,3
+123,Can humans live without technology?,4662333,4
+124,Can humans live without technology?,4756348,3
+125,Can humans live without technology?,4918053,1
+126,Can humans live without technology?,8250963,1
+127,Can humans live without technology?,8734391,4
+128,Can humans live without technology?,9309272,2
+129,Can humans live without technology?,9565863,3
+130,How does the brain process emotions?,4734591,1
+131,How does the brain process emotions?,5472625,2
+132,How does the brain process emotions?,5937199,1
+133,How does the brain process emotions?,6047219,4
+134,How does the brain process emotions?,6228978,2
+135,How does the brain process emotions?,8114691,1
+136,How does the brain process emotions?,8356666,1
+137,How does the brain process emotions?,8739386,4
+138,How does the brain process emotions?,8996334,2
+139,How does the brain process emotions?,9654336,1
+140,What drives human motivation?,1456826,1
+141,What drives human motivation?,1754927,1
+142,What drives human motivation?,2403395,3
+143,What drives human motivation?,2961823,2
+144,What drives human motivation?,3820152,1
+145,What drives human motivation?,5392276,1
+146,What drives human motivation?,6264861,1
+147,What drives human motivation?,6397825,3
+148,What drives human motivation?,8166763,1
+149,What drives human motivation?,9904887,1
+150,How do social norms shape behavior?,1035773,4
+151,How do social norms shape behavior?,3249039,5
+152,How do social norms shape behavior?,4215822,5
+153,How do social norms shape behavior?,6358531,1
+154,How do social norms shape behavior?,6375971,1
+155,How do social norms shape behavior?,6501677,1
+156,How do social norms shape behavior?,6535725,2
+157,How do social norms shape behavior?,8335513,1
+158,How do social norms shape behavior?,8345658,1
+159,How do social norms shape behavior?,9073347,1
+160,What is the role of curiosity in learning?,2346602,5
+161,What is the role of curiosity in learning?,3589605,5
+162,What is the role of curiosity in learning?,5141727,1
+163,What is the role of curiosity in learning?,5405686,1
+164,What is the role of curiosity in learning?,5535559,5
+165,What is the role of curiosity in learning?,5997033,2
+166,What is the role of curiosity in learning?,6039105,1
+167,What is the role of curiosity in learning?,6507877,1
+168,What is the role of curiosity in learning?,6833777,1
+169,What is the role of curiosity in learning?,8416957,1
+170,Is artificial intelligence taking over jobs?,3228855,1
+171,Is artificial intelligence taking over jobs?,3565223,1
+172,Is artificial intelligence taking over jobs?,5556726,1
+173,Is artificial intelligence taking over jobs?,7688511,2
+174,Is artificial intelligence taking over jobs?,7762254,1
+175,Is artificial intelligence taking over jobs?,8081380,3
+176,Is artificial intelligence taking over jobs?,8524710,1
+177,Is artificial intelligence taking over jobs?,9023200,2
+178,Is artificial intelligence taking over jobs?,9764347,1
+179,Is artificial intelligence taking over jobs?,9972285,2
+180,Why is creativity important in problem-solving?,1451515,4
+181,Why is creativity important in problem-solving?,2079064,1
+182,Why is creativity important in problem-solving?,2910828,1
+183,Why is creativity important in problem-solving?,3650169,1
+184,Why is creativity important in problem-solving?,5275073,1
+185,Why is creativity important in problem-solving?,6570680,1
+186,Why is creativity important in problem-solving?,6635871,1
+187,Why is creativity important in problem-solving?,6793012,1
+188,Why is creativity important in problem-solving?,7242033,1
+189,Why is creativity important in problem-solving?,7833382,3
+190,What are the consequences of climate change?,6336692,1
+191,What are the consequences of climate change?,6342800,1
+192,What are the consequences of climate change?,6736086,1
+193,What are the consequences of climate change?,6841548,2
+194,What are the consequences of climate change?,7682157,4
+195,What are the consequences of climate change?,8731468,5
+196,What are the consequences of climate change?,8783202,1
+197,What are the consequences of climate change?,8873734,2
+198,What are the consequences of climate change?,9326680,5
+199,What are the consequences of climate change?,9524331,5

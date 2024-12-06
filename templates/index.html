@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Post Search Engine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        header {
+            text-align: center;
+            background-color: #FFA500;
+            color: white;
+            padding: 20px 0;
+            font-size: 24px;
+        }
+
+        form {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        input[type="text"] {
+            width: 50%;
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #FFA500;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #FFA500;
+        }
+
+        .results {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .result-card {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: 300px;
+            transition: transform 0.2s;
+        }
+
+        .result-card:hover {
+            transform: scale(1.05);
+        }
+
+        .result-card h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .result-card p {
+            font-size: 14px;
+            color: #555;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    Reddit Post Search Engine
+</header>
+
+<form action="/search" method="post">
+    <input type="text" name="query" placeholder="Enter your search query" required>
+    <button type="submit">Search</button>
+</form>
+
+<div class="results">
+    {% if results %}
+        {% for result in results %}
+            <div class="result-card">
+                <h3>Document ID: {{ result.docid }}</h3>
+                <p><strong>Score:</strong> {{ result.score }}</p>
+                <p><strong>Text:</strong> {{ result.text }}</p>
+            </div>
+        {% endfor %}
+    {% endif %}
+</div>
+
+</body>
+</html>
